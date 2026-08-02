@@ -46,8 +46,8 @@ Projeto acadêmico relacionado à tecnologia e segurança digital.
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PietroLim4&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PietroLim4&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=PietroLim4&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PietroLim4&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
