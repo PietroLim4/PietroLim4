@@ -46,8 +46,8 @@ Projeto acadêmico relacionado à tecnologia e segurança digital.
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroLim4&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroLim4&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PietroLim4&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PietroLim4&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -55,7 +55,7 @@ Projeto acadêmico relacionado à tecnologia e segurança digital.
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietro.lima604@gmail.com)
-GitHub: [@PietroLim4](https://github.com/PietroLim4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PietroLim4)
 
 ---
 
